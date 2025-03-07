@@ -1,0 +1,4 @@
+venv/
+alunos/_pycache_
+core/_pycache_
+alunos/migrations/_pycache_
